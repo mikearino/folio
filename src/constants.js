@@ -15,7 +15,7 @@ export const dialogueData = {
   <a href="https://www.youtube.com/@crashcourse
 " target="_blank">Crashcourse</a>`,
   bed: `This where I sleep. I defnitely should do more of this but I love learning new things so sometimes its hard to accomplish this task :)`,
-  resume: `This is my desk and on it is my resume. <a href="https://github.com/mikearino/resume-ML/blob/main/Mike%20Lofgren%20cv.pdf" target="_blank">Check it out?</a>
+  resume: `This is my desk and on it is my resume. <a href="https://github.com/mikearino/resume-ML/blob/main/Mike%20Lofgren.png" target="_blank">Check it out?</a>
   Contact me at mikeylofgren@gmail.com if you have any questions!`,
   projects: `Info about this portfolio : It's made with the Kaboom.js library which is a library for making games in JavaScript.
   Text is rendered with HTML/CSS. So the textbox you're currently reading is not rendered within canvas. Kaboom will soon be rebranded to Kaplay! Learn more about how to use
